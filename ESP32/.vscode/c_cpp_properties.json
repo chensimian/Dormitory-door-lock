@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\XLL\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Users\\XLL\\Documents\\Arduino\\libraries\\**",
+                "H:\\Arduino\\libraries\\**",
+                "C:\\Users\\XLL\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.5-rc4\\**"
+            ],
+            "forcedInclude": [],
+            "defines": [
+                "USBCON"
+            ],
+            "intelliSenseMode": "windows-msvc-x64",
+            "compilerPath": "H:\\Dev-Cpp\\MinGW64\\bin\\gcc.exe",
+            "cStandard": "c89",
+            "cppStandard": "gnu++98"
+        }
+    ],
+    "version": 4
+}

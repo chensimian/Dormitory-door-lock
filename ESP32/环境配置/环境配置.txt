@@ -1,0 +1,9 @@
+自行下载Arduino IDE安装
+
+https://www.arduino.cn/thread-5838-1-1.html
+
+
+关闭软件后安装插件
+
+
+https://www.arduino.cn/forum.php?mod=viewthread&tid=81194&extra=page%3D1

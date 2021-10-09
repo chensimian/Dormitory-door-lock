@@ -1,0 +1,306 @@
+set STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+0x3ff00050: ab6e0000
+0x3ff00054: 0200dcdf
+0x3ff00058: c900b000
+0x3ff0005c: 00500291
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 201
+target crc val: 201
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 110
+target crc val: 110
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:AB6E0000
+    REG1:0200DCDF
+    REG2:c900b000
+    REG3:00500291
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 50 02 91 dc df abCUSTOM_ID: 0C 90 00 00 00 06 E0 00 
+MAC AP : 52-02-91-DC-DF-AB
+MAC STA: 50-02-91-DC-DF-AB
+get mac res: 1
+get flash id : 0x001640efmanufacturer_id: 0xef
+device_id: 0x4016
+SET FLASH PARAMS
+Wrote 4194304 bytes at 0x00000000 in 46.9 seconds (715.2 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+0x3ff00050: ab6e0000
+0x3ff00054: 0200dcdf
+0x3ff00058: c900b000
+0x3ff0005c: 00500291
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 201
+target crc val: 201
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 110
+target crc val: 110
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:AB6E0000
+    REG1:0200DCDF
+    REG2:c900b000
+    REG3:00500291
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 50 02 91 dc df abCUSTOM_ID: 0C 90 00 00 00 06 E0 00 
+MAC AP : 52-02-91-DC-DF-AB
+MAC STA: 50-02-91-DC-DF-AB
+get mac res: 1
+get flash id : 0x001640efmanufacturer_id: 0xef
+device_id: 0x4016
+SET FLASH PARAMS
+Wrote 4194304 bytes at 0x00000000 in 46.9 seconds (715.2 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+0x3ff00050: ab6e0000
+0x3ff00054: 0200dcdf
+0x3ff00058: c900b000
+0x3ff0005c: 00500291
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 201
+target crc val: 201
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 110
+target crc val: 110
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:AB6E0000
+    REG1:0200DCDF
+    REG2:c900b000
+    REG3:00500291
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 50 02 91 dc df abCUSTOM_ID: 0C 90 00 00 00 06 E0 00 
+MAC AP : 52-02-91-DC-DF-AB
+MAC STA: 50-02-91-DC-DF-AB
+get mac res: 1
+get flash id : 0x001640efmanufacturer_id: 0xef
+device_id: 0x4016
+SET FLASH PARAMS
+set STOP FLG: Truecom closed
+set state: ESP_DL_STOP
+set STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+0x3ff00050: ab6e0000
+0x3ff00054: 0200dcdf
+0x3ff00058: c900b000
+0x3ff0005c: 00500291
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 201
+target crc val: 201
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 110
+target crc val: 110
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:AB6E0000
+    REG1:0200DCDF
+    REG2:c900b000
+    REG3:00500291
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 50 02 91 dc df abCUSTOM_ID: 0C 90 00 00 00 06 E0 00 
+MAC AP : 52-02-91-DC-DF-AB
+MAC STA: 50-02-91-DC-DF-AB
+get mac res: 1
+get flash id : 0x001640efmanufacturer_id: 0xef
+device_id: 0x4016
+SET FLASH PARAMS
+Wrote 4194304 bytes at 0x00000000 in 46.9 seconds (715.2 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+0x3ff00050: ab6e0000
+0x3ff00054: 0200dcdf
+0x3ff00058: c900b000
+0x3ff0005c: 00500291
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 201
+target crc val: 201
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 110
+target crc val: 110
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:AB6E0000
+    REG1:0200DCDF
+    REG2:c900b000
+    REG3:00500291
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 50 02 91 dc df abCUSTOM_ID: 0C 90 00 00 00 06 E0 00 
+MAC AP : 52-02-91-DC-DF-AB
+MAC STA: 50-02-91-DC-DF-AB
+get mac res: 1
+get flash id : 0x001640efmanufacturer_id: 0xef
+device_id: 0x4016
+SET FLASH PARAMS
+set STOP FLG: Truecom closed
+set state: ESP_DL_STOP
+set STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+0x3ff00050: ab6e0000
+0x3ff00054: 0200dcdf
+0x3ff00058: c900b000
+0x3ff0005c: 00500291
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 201
+target crc val: 201
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 110
+target crc val: 110
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:AB6E0000
+    REG1:0200DCDF
+    REG2:c900b000
+    REG3:00500291
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 50 02 91 dc df abCUSTOM_ID: 0C 90 00 00 00 06 E0 00 
+MAC AP : 52-02-91-DC-DF-AB
+MAC STA: 50-02-91-DC-DF-AB
+get mac res: 1
+get flash id : 0x001640efmanufacturer_id: 0xef
+device_id: 0x4016
+SET FLASH PARAMS
+Wrote 4194304 bytes at 0x00000000 in 41.4 seconds (810.4 kbit/s)...Hash of data verified.
+Leaving...com closed
